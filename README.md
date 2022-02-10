@@ -1,4 +1,4 @@
-
+<!--
 ### 꾸준함과 집착, 그리고 여유가 무기인 초보 개발자 👋
 - 타고난 INTJ, 계획형 인간, 뭐든 중간에 그만두지 않는 선천적 꾸준함
 - 모르는 것은 그 자세 그대로 알아낼때까지 고민하는 집착, 그리고 그것을 즐기는 성격😄
@@ -14,7 +14,7 @@
 [![Naver Badge](https://img.shields.io/badge/NaverBoostcourse-3398DC?style=flat-square&logo=naver&link=file:///C:/Users/minhaekim/Downloads/naver.svg)](https://www.soscon.net/session)
 ![myexperience](https://user-images.githubusercontent.com/85910625/152630219-c916c2c0-b757-495b-9c07-98f56a60906d.jpg)
 
-
+-->
 
 
 <!--
