@@ -15,8 +15,9 @@
 - Naver Boostcourse AI Basic 1기
 [![Naver Badge](https://img.shields.io/badge/NaverBoostcourse-3398DC?style=flat-square&logo=naver&link=file:///C:/Users/minhaekim/Downloads/naver.svg)](https://www.soscon.net/session)
 ![myexperience](https://user-images.githubusercontent.com/85910625/152630219-c916c2c0-b757-495b-9c07-98f56a60906d.jpg)
-- 교내 GURU 해커톤 안드로이드 앱 부문, 유니티 게임 부문 대상 
-- 서울 ICT 이노베이션스퀘어 기획자 과정(2022 2월 14일 ~ 2022 4월 15일) 수료 ⚡
+- 교내 GURU 해커톤 안드로이드 앱 부문 대상
+- 교내 GURU2 해커톤 유니티 게임 부문 대상 
+- 서울 ICT 이노베이션스퀘어 블록체인 기획자 과정(2022 2월 14일 ~ 2022 4월 15일) 수료 ⚡
 - 멋쟁이 사자처럼 NFT 해커톤 대상 😄
 
 
