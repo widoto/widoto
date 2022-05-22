@@ -20,7 +20,7 @@
 - 서울 ICT 이노베이션스퀘어 블록체인 기획자 과정(2022 2월 14일 ~ 2022 4월 15일) 수료 ⚡
 - 멋쟁이 사자처럼 NFT 해커톤 대상 😄
 - 멋쟁이 사자처럼 연합 동아리 프론트엔드 팀 활동 중:)
-
+- solidity 언어 공부중(by cryptozombie)
 
 <!--
 **widoto/widoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. YEAH
