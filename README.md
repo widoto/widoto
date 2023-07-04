@@ -1,20 +1,18 @@
-### 프로필 비활성화 중입니다.
+#### 🌱 MinHaeKim
 
-### 경험할 수 있다면 주저하지 않기, 그러나 뚜렷한 목표를 가지고 시작하기🌱
+#### :link: Tech Blog
+<https://widotostudy.tistory.com/>
+
+####:muscle: Skills
+
+##### Languages
+<img alt="C++" src ="https://img.shields.io/badge/C++-E34F26.svg?&style=for-the-badge&logo=C++&logoColor=00599C"/> 
+<img alt="HTML" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> 
+<img alt="HTML" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> 
+<img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> 
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> 
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
+<img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/> 
+<img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=black"/>
 
 
-- 2021 Samsung Software Developer Conference(SSDC) 발표 "삼성 오픈소스 컴패니언즈, 세상을 연결하다!)
-[![Samsung Badge](https://img.shields.io/badge/SSDC-1428A0?style=flat-square&logo=Samsung&link=file:///C:/Users/minhaekim/Downloads/samsung.svg)](https://www.soscon.net/session)
-- 삼성 오픈소스 컴패니언즈 2기
-[![SOSC Badge](https://img.shields.io/badge/SOSC-FF6A00?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UCbRN3AqMdeWn5cGlGsFV_FA)
-- Naver Boostcourse AI Basic 1기
-[![Naver Badge](https://img.shields.io/badge/NaverBoostcourse-3398DC?style=flat-square&logo=naver&link=file:///C:/Users/minhaekim/Downloads/naver.svg)](https://www.soscon.net/session)
-![myexperience](https://user-images.githubusercontent.com/85910625/152630219-c916c2c0-b757-495b-9c07-98f56a60906d.jpg)
-- 교내 GURU 해커톤 안드로이드 앱 부문 대상
-- 교내 GURU2 해커톤 유니티 게임 부문 대상 
-- 서울 ICT 이노베이션스퀘어 중급 블록체인 기획자 과정(2022 2월 14일 ~ 2022 4월 15일) 수료 ⚡
-- 서울 ICT 이노베이션스퀘어 고급 블록체인 개발자 과정 수료 ⚡
-- 멋쟁이 사자처럼 NFT 해커톤 대상 😄
-- 멋쟁이 사자처럼 연합 동아리 프론트엔드 팀 10기
-
-![widoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=widoto&show_icons=true&theme=radical)
