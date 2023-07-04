@@ -1,14 +1,7 @@
 ### 프로필 비활성화 중입니다.
 
-<!--
-### 꾸준함과 집착, 그리고 여유가 무기인 초보 개발자 👋
-- 타고난 INTJ, 계획형 인간, 뭐든 중간에 그만두지 않는 선천적 꾸준함
-- 모르는 것은 그 자세 그대로 알아낼때까지 고민하는 집착, 그리고 그것을 즐기는 성격😄
-- 남들과 나를 쓸데없이 비교하지 않고, 시간과 나이에 과도하게 열등감을 가질 필요는 없다는 것을 일찍이 깨닫게 된 여유
-
 ### 경험할 수 있다면 주저하지 않기, 그러나 뚜렷한 목표를 가지고 시작하기🌱
 
-- 경기북과학고 졸업
 
 - 2021 Samsung Software Developer Conference(SSDC) 발표 "삼성 오픈소스 컴패니언즈, 세상을 연결하다!)
 [![Samsung Badge](https://img.shields.io/badge/SSDC-1428A0?style=flat-square&logo=Samsung&link=file:///C:/Users/minhaekim/Downloads/samsung.svg)](https://www.soscon.net/session)
@@ -22,10 +15,9 @@
 - 서울 ICT 이노베이션스퀘어 중급 블록체인 기획자 과정(2022 2월 14일 ~ 2022 4월 15일) 수료 ⚡
 - 서울 ICT 이노베이션스퀘어 고급 블록체인 개발자 과정 수료 ⚡
 - 멋쟁이 사자처럼 NFT 해커톤 대상 😄
-- 멋쟁이 사자처럼 연합 동아리 프론트엔드 팀 활동 중:)
-- solidity 언어 공부중(by cryptozombie)-->
+- 멋쟁이 사자처럼 연합 동아리 프론트엔드 팀 10기
 
-<!--
+
 **widoto/widoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. YEAH
 
 Here are some ideas to get you started:
