@@ -1,6 +1,4 @@
 ### 🌱 MinHaeKim 
-<b> Dreaming Blockchain Developer! </b> <br>
-Tech Blog :link: <https://widotostudy.tistory.com/>
 
 ### :muscle: Skills
 <!--#### Languages 
